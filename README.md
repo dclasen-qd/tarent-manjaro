@@ -9,3 +9,6 @@ Wir wollen eine modernes und linuxbasiertes Betriebssystem haben, dass sich als 
 * tarent-Systeme (LDAP. VPN, WiFi) sind eingerichtet
 * Das OS ist "ready to use" für Devs und Nicht-Devs, auch ohne Linuxkenntnisse 
 
+*Nice to Have:*
+* tarent branding / CI
+
