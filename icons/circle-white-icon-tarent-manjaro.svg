@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="107.40268mm"
+   height="107.40272mm"
+   viewBox="0 0 107.40268 107.40272"
+   version="1.1"
+   id="svg1389"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="circle-white-icon-tarent-manjaro.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1391"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="329.83991"
+     inkscape:cy="467.49487"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1386" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.733492,-24.771386)">
+    <g
+       id="g13881"
+       transform="matrix(0.26458333,0,0,0.26458333,488.00639,-69.680357)">
+      <path
+         d="m -1574.4438,361.98297 c -109.3328,0 -197.9656,88.63144 -197.9656,197.96575 0,109.3328 88.6328,197.9658 197.9656,197.9658 109.3328,0 197.9658,-88.633 197.9658,-197.9658 0,-109.33432 -88.633,-197.96575 -197.9658,-197.96575 z"
+         id="tarent_dot_red_rgb-3-62-6-2"
+         fill="#bb242a"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#bb242a;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="sssss" />
+      <g
+         id="g13695-0"
+         transform="matrix(0.70511898,0,0,0.70511898,-842.30937,-168.56735)">
+        <g
+           fill="#35bf5c"
+           transform="matrix(4.1338583,0,0,4.1338583,-1169.3753,829.3408)"
+           id="g8-2-1-2"
+           style="fill:#bb242a;fill-opacity:1">
+          <path
+             d="M 0,0 V 64 H 18 V 18 H 41 V 0 Z"
+             id="path2-9-8-3"
+             style="fill:#bb242a;fill-opacity:1" />
+          <path
+             d="M 23,23 V 64 H 41 V 23 Z"
+             id="path4-1-7-7"
+             style="fill:#bb242a;fill-opacity:1" />
+          <path
+             d="M 46,0 V 64 H 64 V 0 Z"
+             id="path6-2-9-5"
+             style="fill:#bb242a;fill-opacity:1" />
+        </g>
+        <path
+           id="tarent_dot_red_rgb-3-6-9"
+           style="fill:#bb242a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.50322"
+           d="m -1156.7851,1103.038 c -8.3024,0 -15.0329,6.7305 -15.0329,15.0327 v 66.1417 c 0,8.3022 6.7305,15.0329 15.0329,15.0329 h 198.21011 l -40.47799,40.4818 c -5.87312,5.8716 -5.87312,15.3841 0,21.2557 2.9326,2.9357 6.78186,4.404 10.6287,4.404 3.84671,0 7.69408,-1.4683 10.62678,-4.404 l 66.14162,-66.1416 c 5.87308,-5.8716 5.87308,-15.3841 0,-21.2557 l -66.14162,-66.1415 c -5.86555,-5.8731 -15.39002,-5.8731 -21.25548,0 -5.87312,5.8685 -5.87312,15.387 0,21.2556 l 40.47799,40.4799 h -183.17731 v -51.1088 c 0,-8.3022 -6.7306,-15.0327 -15.0328,-15.0327 z" />
+      </g>
+    </g>
+  </g>
+</svg>
