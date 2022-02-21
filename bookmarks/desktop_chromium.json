@@ -1,0 +1,36 @@
+{
+  // place in 
+  // /etc/chromium-browser/policies/recommended
+  // /etc/opt/chrome/policies/managed/ (for Chrome) or 
+  // /etc/chromium/policies/managed/
+  
+  "ShowHomeButton": true,
+  "HomepageLocation": "https://confluence.tarent.de/display/TAR",
+  "BookmarkBarEnabled": true,
+  "HomepageIsNewTabPage": false, 
+  "RestoreOnStartup": 4,
+  "RestoreOnStartupURLs": [
+      "https://confluence.tarent.de/display/TAR"
+    ],
+  "ManagedBookmarks": [
+    {"toplevel_name": "tarent managed Bookmarks"}, 
+      {"name": "tarent managed Bookmarks", "children": 
+      [
+      {"name": "activio", "url": "https://activio.tarent.de"}, 
+      {"name": "pedeto", "url": "https://pedeto.tarent.de"}, 
+      {"name": "facts", "url": "https://facts.tarent.de"}, 
+      {"name": "Confluence", "url": "https://confluence.tarent.de/"}, 
+      {"name": "Jira", "url": "https://jira.tarent.de/"}, 
+      {"name": "Rocket.Chat", "url": "https://chat.tarent.de"},
+      {"name": "E-Mail", "url": "https://mail.google.com/mail/"}, 
+      {"name": "gDrive", "url": "https://drive.google.com/"},
+      {"name": "Kalender", "url": "https://calendar.google.com/"},
+      {"name": "gitlab", "url": "https://gitlab.tarent.de/"},
+      {"name": "Helpdesk", "url": "https://help.tarent.de/"},
+      {"name": "t-learn", "url": "https://t-learn.lan.tarent.de/"}
+      ]
+      
+    }
+  ]
+
+}
