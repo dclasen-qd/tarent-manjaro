@@ -1,20 +1,17 @@
-{
-  // place in 
-  // /etc/chromium-browser/policies/recommended
-  // /etc/opt/chrome/policies/managed/ (for Chrome) or 
-  // /etc/chromium/policies/managed/
-  
+  {
   "ShowHomeButton": true,
   "HomepageLocation": "https://confluence.tarent.de/display/TAR",
   "BookmarkBarEnabled": true,
+  "ImportBookmarks": false,
+  "ShowAppsShortcutInBookmark":false,
   "HomepageIsNewTabPage": false, 
   "RestoreOnStartup": 4,
   "RestoreOnStartupURLs": [
       "https://confluence.tarent.de/display/TAR"
     ],
   "ManagedBookmarks": [
-    {"toplevel_name": "tarent managed Bookmarks"}, 
-      {"name": "tarent managed Bookmarks", "children": 
+    {"toplevel_name": "tarent"}, 
+      {"name": "tarent", "children": 
       [
       {"name": "activio", "url": "https://activio.tarent.de"}, 
       {"name": "pedeto", "url": "https://pedeto.tarent.de"}, 
@@ -32,5 +29,4 @@
       
     }
   ]
-
-}
+ }
