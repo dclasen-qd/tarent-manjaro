@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>tarent_dot_red_rgb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M128,0 C57.308,0 0,57.307 0,128 C0,198.692 57.308,256 128,256 C198.692,256 256,198.692 256,128 C256,57.307 198.692,0 128,0 Z M213.07,141.07 L169.07,185.07 C167.119,187.023 164.559,188 162,188 C159.441,188 156.881,187.023 154.93,185.07 C151.023,181.164 151.023,174.836 154.93,170.93 L181.858,144 L50,144 C44.477,144 40,139.523 40,134 L40,90 C40,84.477 44.477,80 50,80 C55.523,80 60,84.477 60,90 L60,124 L181.858,124 L154.93,97.07 C151.023,93.166 151.023,86.834 154.93,82.93 C158.832,79.023 165.168,79.023 169.07,82.93 L213.07,126.93 C216.977,130.836 216.977,137.164 213.07,141.07 Z" id="tarent_dot_red_rgb" fill="#BB242A"></path>
+    </g>
+</svg>
